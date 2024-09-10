@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hind Abdullah</h1>
-<h3 align="center">Computer science Student, interested in web development</h3>
-
-- 🌱 I’m currently learning **Computer network , Organizing computer**
+<h3 align="center">Computer science Student</h3>
 
 - ⚡ Excited **to learn new things!**
 
